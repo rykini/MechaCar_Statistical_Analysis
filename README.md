@@ -23,12 +23,16 @@ If look at each lot separately, the data shows that the design specifications ar
 By looking at the p-value as a measure for statistically difference, we can see that only lot 3 has a p-value below the p-value threshold of 0.05. Thus we can say that there is a significant statistic difference for lot 3. The mean of all others are equal to the population mean.
 
 - All lots
+
 ![all](resources/d3_total.PNG)
 - lot 1
+
 ![1](resources/d3_lot1.PNG)
 - lot 2
+
 ![2](resources/d3_lot2.PNG)
 - lot 3
+
 ![3](resources/d3_lot3.PNG)
 
 ## Study Design: MechaCar vs Competition
