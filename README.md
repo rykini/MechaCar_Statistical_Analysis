@@ -17,3 +17,18 @@ In total, the data shows that design specifications are met with the variance be
 ![lot](resources/d2_lot.PNG)
 
 If look at each lot separately, the data shows that the design specifications are not met for lot 3, while the other 2 meet the design specifications.
+
+## T-Tests on Suspension Coils
+
+By looking at the p-value as a measure for statistically difference, we can see that only lot 3 has a p-value below the p-value threshold of 0.05. Thus we can say that there is a significant statistic difference for lot 3. The mean of all others are equal to the population mean.
+
+- All lots
+![all](resources/d3_total.PNG)
+- lot 1
+![1](resources/d3_lot1.PNG)
+- lot 2
+![2](resources/d3_lot2.PNG)
+- lot 3
+![3](resources/d3_lot3.PNG)
+
+## Study Design: MechaCar vs Competition
