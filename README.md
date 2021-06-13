@@ -11,5 +11,9 @@
 ### Total Summary
 ![total](resources/d2_total.PNG)
 
+In total, the data shows that design specifications are met with the variance being 62.3
+
 ### Lot Summary
 ![lot](resources/d2_lot.PNG)
+
+If look at each lot separately, the data shows that the design specifications are not met for lot 3, while the other 2 meet the design specifications.
