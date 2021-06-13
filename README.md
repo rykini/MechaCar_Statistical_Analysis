@@ -43,18 +43,18 @@ An additional analysis to compare performance of the MechaCar vehicles against p
 
 - What metric or metrics are you going to test?
 
-Fuel efficiency, maintenance Costs arethe metrics to be tested.
+  Fuel efficiency, maintenance Costs arethe metrics to be tested.
 
 - What is the null hypothesis or alternative hypothesis?
 
-Null Hypothesis: there is no statistical difference between the MechaCar and its competitors.
-Alternative Hypothesis: there is statistical difference between the MechaCar and its competitors.
+  Null Hypothesis: there is no statistical difference between the MechaCar and its competitors.
+  Alternative Hypothesis: there is statistical difference between the MechaCar and its competitors.
 
 - What statistical test would you use to test the hypothesis? And why?
 
-The best statistical test would be a two-way ANOVA test since the car types are dichotomous and the prices are continuous.
+  The best statistical test would be a two-way ANOVA test since the car types are dichotomous and the prices are continuous.
 
 - What data is needed to run the statistical test?
 
-Data from comparable vehicles would be needed.
+  Data from comparable vehicles would be needed.
 
