@@ -25,14 +25,36 @@ By looking at the p-value as a measure for statistically difference, we can see 
 - All lots
 
 ![all](resources/d3_total.PNG)
+
 - lot 1
 
 ![1](resources/d3_lot1.PNG)
+
 - lot 2
 
 ![2](resources/d3_lot2.PNG)
+
 - lot 3
 
 ![3](resources/d3_lot3.PNG)
 
 ## Study Design: MechaCar vs Competition
+An additional analysis to compare performance of the MechaCar vehicles against performance of vehicles from other manufacturers.
+
+- What metric or metrics are you going to test?
+
+Fuel efficiency, maintenance Costs arethe metrics to be tested.
+
+- What is the null hypothesis or alternative hypothesis?
+
+Null Hypothesis: there is no statistical difference between the MechaCar and its competitors.
+Alternative Hypothesis: there is statistical difference between the MechaCar and its competitors.
+
+- What statistical test would you use to test the hypothesis? And why?
+
+The best statistical test would be a two-way ANOVA test since the car types are dichotomous and the prices are continuous.
+
+- What data is needed to run the statistical test?
+
+Data from comparable vehicles would be needed.
+
